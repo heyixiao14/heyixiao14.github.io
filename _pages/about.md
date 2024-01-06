@@ -56,7 +56,8 @@ In: Proceedings of the 17th International Conference on Parallel Problem Solving
 
 
 # 🎖 Honors and Awards
-- *2019.09* 徐新奖学金. 
+- *2019.09* Xu Xin International Student Exchange Scholarship.
+- *2023.11* Excellent Graduate Student of Nanjing University. 
 
 
 # 📖 Educations
