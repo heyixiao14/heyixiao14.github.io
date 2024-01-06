@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shen-Huan Lyu (吕沈欢)"
+title                    : "Yi-Xiao He (贺一笑)"
 description              : "Assistent Researcher in Computer Science."
-repository               : "lyushenhuan/lyushenhuan.github.io"
+repository               : "heyixiao14/heyixiao14.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  'G-23LHXQ6227' # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shen-Huan Lyu"
-  avatar           : "images/lyushenhuan-512x512.png"
-  bio              : "Hohai University"
+  name             : "Yi-Xiao He"
+  avatar           : "images/heyixiao-512x512.png"
+  bio              : "Nanjing University"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=_NlDLQIAAAAJ&hl=zh-CN"
-  email            : "lvsh@hhu.edu.com"
+  googlescholar    : "https://scholar.google.com/citations?user=AbrkogUAAAAJ&hl=zh-CN"
+  email            : "heyx@lamda.nju.edu.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lyushenhuan"# e.g., "github username"
+  github           : "heyixiao14"# e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
