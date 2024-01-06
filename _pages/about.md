@@ -22,8 +22,8 @@ I am an Assistant Researcher in [College of Computer Science & Software Engineer
 My research interest includes ensemble learning and learning theory. 
 
 # 🔥 News
-- *2024.01*: <b> Enrolling Students: Looking for self-motivated M.Sc/Ph.D. students to work on Artificial Intelligence. Feel free to send me an email with your CV. </b>
-- *2022.12*: &nbsp;🎉🎉 The paper "Depth is More Powerful than Width with Prediction Concatenation in Deep Forests" is accepted by the CCF-A international conference NeurIPS 2022 as an **Oral Representation**. 
+- *2024.01*: &nbsp;🎉🎉 The paper "Interpreting Deep Forest through Feature Contribution and MDI Feature Importance" is accepted by the **CCF-B** international journal ACM TKDD. 
+- *2022.12*: &nbsp;🎉🎉 The paper "Depth is More Powerful than Width with Prediction Concatenation in Deep Forests" is accepted by the **CCF-A** international conference NeurIPS 2022 as an **Oral Representation**. 
 
 # 📝 Publications 
 
