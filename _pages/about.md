@@ -52,7 +52,7 @@ In: Proceedings of the 17th International Conference on Parallel Problem Solving
 
 - [[JCRD 2020]](https://github.com) 蒙德里安深度森林. [[paper]](papers/he2020mod.pdf) [[code]](https://github.com/heyixiao14/he2020mod) [[bib]](papers/he2020mod.bib)<br>
 **贺一笑**, 庞明, 姜远.<br>
-计算机研究与发展, 2020.
+计算机研究与发展, 57(8):1594-1604, 2020.
 
 
 # 🎖 Honors and Awards
