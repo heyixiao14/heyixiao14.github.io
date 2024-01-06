@@ -30,7 +30,7 @@ My research interest includes ensemble learning and learning theory.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/lyu2022depth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[code]](https://github.com/lyushenhuan/lyu2022depth) [[bib]](papers/lyu2022depth.bib) <br>
+- [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[code]](https://github.com/heyixiao14/lyu2022depth) [[bib]](papers/lyu2022depth.bib) <br>
 Shen-Huan Lyu, **Yi-Xiao He**, Zhi-Hua Zhou.<br>
 In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New Orleans, Louisiana, US, 2022.
 
@@ -46,6 +46,13 @@ ACM Transactions on Knowledge Discovery from Data, in press, 2024.
 **Yi-Xiao He**, Yu-Chang Wu, Chao Qian, and Zhi-Hua Zhou.<br>
 Machine Learning, in press, 2024.
 
+- [[PPSN 2022]](https://github.com) Multi-objective Evolutionary Ensemble Pruning Guided by Margin Distribution. [[paper]](papers/wu2022multi.pdf) [[code]](https://github.com/heyixiao14/wu2022multi) [[bib]](papers/wu2022multi.bib)<br>
+Yu-Chang Wu, **Yi-Xiao He**, Chao Qian, and Zhi-Hua Zhou.<br>
+In: Proceedings of the 17th International Conference on Parallel Problem Solving from Nature, Dortmund, Germany, pp.427-441, 2022.
+
+- [[JCRD 2020]](https://github.com) 蒙德里安深度森林. [[paper]](papers/he2020mod.pdf) [[code]](https://github.com/heyixiao14/he2020mod) [[bib]](papers/he2020mod.bib)<br>
+**贺一笑**, 庞明, 姜远.<br>
+计算机研究与发展, 2020.
 
 
 # 🎖 Honors and Awards
