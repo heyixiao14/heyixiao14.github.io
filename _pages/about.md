@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Assistant Researcher in [College of Computer Science & Software Engineering](https://cies.hhu.edu.cn/) at [Hohai University](https://www.hhu.edu.cn/). I obtained my Ph.D. degree from [Department of Computer Science & Technology](https://cs.nju.edu.cn/) in [Nanjing University](https://www.nju.edu.cn/main.htm) in Dec. 2022, where I was very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm). Before that, I received my B.Sc. degree from [Department of Statistics](https://bs.ustc.edu.cn/chinese/teacher-8.html) in [University of Science and Technology of China](https://www.ustc.edu.cn/) in Jun. 2017.
+Currently I am a fifth year graduate student of [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm) in [Nanjing University](https://www.nju.edu.cn/main.htm) and a member of [LAMDA](http://lamda.nju.edu.cn/) Group, led by professor [Zhi-Hua Zhou](http://lamda.nju.edu.cn/zhouzh/). I got my B.Eng. degree in [Information Science](http://www.isee.zju.edu.cn/) in June 2019 from [Chu Kochen Honors College of Zhejiang University](http://ckc.zju.edu.cn/). In the same year, I was admitted to pursue Ph.D. degree in [Nanjing University](https://www.nju.edu.cn/) without entrance examination.
 
 My research interest includes ensemble learning and learning theory. 
 
@@ -37,18 +37,20 @@ In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New O
 </div>
 </div>
 
-- [[TKDD 2024]](https://github.com) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/lyushenhuan/he2024interpreting) [[bib]](papers/he2024interpreting.bib) <br>
+- [[TKDD 2024]](https://github.com) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/heyixiao14/he2024interpreting) [[bib]](papers/he2024interpreting.bib) <br>
 **Yi-Xiao He**, Shen-Huan Lyu, Yuan Jiang.<br>
 ACM Transactions on Knowledge Discovery from Data, in press, 2024.
 
 
+- [[MLJ 2024]](https://github.com) Margin Distribution and Structural Diversity Guided Ensemble Pruning. [[paper]](papers/he2024margin.pdf) [[code]](https://github.com/heyixiao14/he2024margin) [[bib]](papers/he2024margin.bib) <br>
+**Yi-Xiao He**, Yu-Chang Wu, Chao Qian, and Zhi-Hua Zhou.<br>
+Machine Learning, in press, 2024.
+
+
 
 # 🎖 Honors and Awards
-- *2019.10* Artificial Intelligence Scholarship in Nanjing University, Nanjing. 
-- *2019.09* The First Class Academic Scholarship in Nanjing University, Nanjing. 
-- *2018.09* The First Class Academic Scholarship in Nanjing University, Nanjing.
-- *2017.09* Presidential Special Scholarship for first year Ph.D. Student in Nanjing University, Nanjing.
-- *2016.09* The Silver Prize Scholarship for Excellent Student in University of Science and Technology of China, Hefei.
+- *2019.09* 徐新奖学金. 
+
 
 # 📖 Educations
 - *2019.09 - 2024.01 (now)*, Ph.D. in Computer Science, Nanjing University (NJU) 
