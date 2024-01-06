@@ -61,7 +61,7 @@ In: Proceedings of the 17th International Conference on Parallel Problem Solving
 
 # 📖 Educations
 - *2019.09 - 2024.01 (now)*, Ph.D. in Computer Science, Nanjing University (NJU) 
-- *2015.09 - 2019.06*, B.Sc. in Statistics, Zhejiang University (ZJU)
+- *2015.09 - 2019.06*, B.Eng. in Statistics, Zhejiang University (ZJU)
 
 <!-- # 💬 Invited Talks
 - *2023.11*, Deep Forest, Z-Park National Laboratory, Beijing.
