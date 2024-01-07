@@ -42,7 +42,7 @@ In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New O
 ACM Transactions on Knowledge Discovery from Data, in press, 2024.
 
 
-- [[MLJ 2024]](https://github.com) Margin Distribution and Structural Diversity Guided Ensemble Pruning. [[paper]](papers/he2024margin.pdf) [[code]](https://github.com/heyixiao14/he2024margin) [[bib]](papers/he2024margin.bib) <br>
+- [[MLJ 2024]](https://github.com) Margin Distribution and Structural Diversity Guided Ensemble Pruning. [[paper]](papers/he2024margin.pdf) [[poster]](papers/he2024margin_poster.pdf) [[code]](https://github.com/heyixiao14/he2024margin) [[bib]](papers/he2024margin.bib) <br>
 **Yi-Xiao He**, Yu-Chang Wu, Chao Qian, and Zhi-Hua Zhou.<br>
 Machine Learning, in press, 2024.
 
