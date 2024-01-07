@@ -50,7 +50,7 @@ Machine Learning, in press, 2024.
 Yu-Chang Wu, **Yi-Xiao He**, Chao Qian, and Zhi-Hua Zhou.<br>
 In: Proceedings of the 17th International Conference on Parallel Problem Solving from Nature, Dortmund, Germany, pp.427-441, 2022.
 
-- [[JCRD 2020]](https://github.com) 蒙德里安深度森林. [[paper]](papers/he2020mod.pdf) [[code]](https://github.com/heyixiao14/he2020mod) [[bib]](papers/he2020mod.bib)<br>
+- [[JCRD 2020]](https://github.com) 蒙德里安深度森林. [[paper]](papers/he2020mondrian.pdf) [[code]](https://github.com/heyixiao14/he2020mod) [[bib]](papers/he2020mondrian.bib)<br>
 **贺一笑**, 庞明, 姜远.<br>
 计算机研究与发展, 57(8):1594-1604, 2020.
 
