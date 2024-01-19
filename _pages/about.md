@@ -42,15 +42,15 @@ In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New O
 ACM Transactions on Knowledge Discovery from Data, in press, 2024.
 
 
-- [[MLJ 2024]](https://github.com) Margin Distribution and Structural Diversity Guided Ensemble Pruning. [[paper]](papers/he2024margin.pdf) [[poster]](papers/he2024margin_poster.pdf) [[code]](https://github.com/heyixiao14/he2024margin) [[bib]](papers/he2024margin.bib) <br>
+- [[MLJ 2024]](https://link.springer.com/article/10.1007/s10994-023-06429-3) Margin Distribution and Structural Diversity Guided Ensemble Pruning. [[paper]](papers/he2024margin.pdf) [[poster]](papers/he2024margin_poster.pdf) [[code]](https://github.com/heyixiao14/he2024margin) [[bib]](papers/he2024margin.bib) <br>
 **Yi-Xiao He**, Yu-Chang Wu, Chao Qian, and Zhi-Hua Zhou.<br>
 Machine Learning, in press, 2024.
 
-- [[PPSN 2022]](https://github.com) Multi-objective Evolutionary Ensemble Pruning Guided by Margin Distribution. [[paper]](papers/wu2022multi.pdf) [[code]](https://github.com/heyixiao14/wu2022multi) [[bib]](papers/wu2022multi.bib)<br>
+- [[PPSN 2022]](https://link.springer.com/chapter/10.1007/978-3-031-14714-2_30) Multi-objective Evolutionary Ensemble Pruning Guided by Margin Distribution. [[paper]](papers/wu2022multi.pdf) [[code]](https://github.com/heyixiao14/wu2022multi) [[bib]](papers/wu2022multi.bib)<br>
 Yu-Chang Wu, **Yi-Xiao He**, Chao Qian, and Zhi-Hua Zhou.<br>
 In: Proceedings of the 17th International Conference on Parallel Problem Solving from Nature, Dortmund, Germany, pp.427-441, 2022.
 
-- [[JCRD 2020]](https://github.com) 蒙德里安深度森林. [[paper]](papers/he2020mondrian.pdf) [[code]](papers/he2020mondrian_code.zip) [[bib]](papers/he2020mondrian.bib)<br>
+- [[JCRD 2020]](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2020.20200490) 蒙德里安深度森林. [[paper]](papers/he2020mondrian.pdf) [[code]](papers/he2020mondrian_code.zip) [[bib]](papers/he2020mondrian.bib)<br>
 **贺一笑**, 庞明, 姜远.<br>
 计算机研究与发展, 57(8):1594-1604, 2020.
 
