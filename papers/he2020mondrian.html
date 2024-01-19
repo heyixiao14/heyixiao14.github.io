@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>he2020mondrian</title>
+    <style>
+        #bib-text pre {
+            font-size: 1em;
+            font-family: 'Consolas', Courier, monospace;
+        }
+    </style>
+    <script>
+        function copyToClipboard() {
+            const el = document.getElementById('bib-text');
+            const range = document.createRange();
+            window.getSelection().removeAllRanges();
+            range.selectNode(el);
+            window.getSelection().addRange(range);
+            document.execCommand('copy');
+            window.getSelection().removeAllRanges();
+
+            // Change button text to indicate citation has been copied
+            const copyButton = document.getElementById('copy-button');
+            copyButton.textContent = 'Copied!';
+            setTimeout(() => {
+                copyButton.textContent = 'Copy';
+            }, 2000);  // revert back to "Copy" after 2 seconds
+        }
+    </script>
+</head>
+<body>
+    <div id="bib-text">
+<pre>
+@article{he2020mondrian,
+title = {蒙德里安深度森林},
+journal = {计算机研究与发展},
+volume = {57},
+number = {8},
+pages = {1594--1604},
+year = {2020},
+author = {贺一笑 and 庞明 and 姜远}
+}
+</pre>
+    </div>
+    <button id="copy-button" onclick="copyToClipboard()">Copy</button>
+</body>
+</html>
