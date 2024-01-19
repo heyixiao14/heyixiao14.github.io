@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>wu2022multi</title>
+    <style>
+        #bib-text pre {
+            font-size: 1em;
+            font-family: 'Consolas', Courier, monospace;
+        }
+    </style>
+    <script>
+        function copyToClipboard() {
+            const el = document.getElementById('bib-text');
+            const range = document.createRange();
+            window.getSelection().removeAllRanges();
+            range.selectNode(el);
+            window.getSelection().addRange(range);
+            document.execCommand('copy');
+            window.getSelection().removeAllRanges();
+
+            // Change button text to indicate citation has been copied
+            const copyButton = document.getElementById('copy-button');
+            copyButton.textContent = 'Copied!';
+            setTimeout(() => {
+                copyButton.textContent = 'Copy';
+            }, 2000);  // revert back to "Copy" after 2 seconds
+        }
+    </script>
+</head>
+<body>
+    <div id="bib-text">
+<pre>
+@inproceedings{wu2022multi,
+  author    = {Yu-Chang Wu and Yi-Xiao He and Chao Qian and Zhi-Hua Zhou},
+  title     = {Depth is more powerful than width with prediction concatenation in deep forests},
+  booktitle = {Proceedings of the 17th International Conference on Parallel Problem Solving from Nature},
+  pages     = {427--441},
+  year      = {2022}
+}
+</pre>
+    </div>
+    <button id="copy-button" onclick="copyToClipboard()">Copy</button>
+</body>
+</html>
