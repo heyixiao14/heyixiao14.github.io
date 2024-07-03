@@ -38,7 +38,7 @@ In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New O
 </div>
 </div>
 
-- [[TKDD 2024]](https://github.com) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/heyixiao14/he2024interpreting) [[bib]](papers/he2024interpreting.html) <br>
+- [[TKDD 2024]](https://github.com) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/heyixiao14/DFFI-code) [[bib]](papers/he2024interpreting.html) <br>
 **Yi-Xiao He**, Shen-Huan Lyu, Yuan Jiang.<br>
 ACM Transactions on Knowledge Discovery from Data, in press, 2024.
 
