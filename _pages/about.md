@@ -31,7 +31,7 @@ My research interest includes ensemble learning and learning theory.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/lyu2022depth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[code]](https://github.com/heyixiao14/lyu2022depth) [[bib]](papers/lyu2022depth.html) <br>
+- [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[bib]](papers/lyu2022depth.html) <br>
 Shen-Huan Lyu, **Yi-Xiao He**, Zhi-Hua Zhou.<br>
 In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New Orleans, Louisiana, US, 2022.
 
@@ -43,11 +43,11 @@ In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New O
 ACM Transactions on Knowledge Discovery from Data, in press, 2024.
 
 
-- [[MLJ 2024]](https://link.springer.com/article/10.1007/s10994-023-06429-3) Margin Distribution and Structural Diversity Guided Ensemble Pruning. [[paper]](papers/he2024margin.pdf) [[poster]](papers/he2024margin_poster.pdf) [[code]](https://github.com/heyixiao14/he2024margin) [[bib]](papers/he2024margin.html) <br>
+- [[MLJ 2024]](https://link.springer.com/article/10.1007/s10994-023-06429-3) Margin Distribution and Structural Diversity Guided Ensemble Pruning. [[paper]](papers/he2024margin.pdf) [[poster]](papers/he2024margin_poster.pdf) [[bib]](papers/he2024margin.html) <br>
 **Yi-Xiao He**, Yu-Chang Wu, Chao Qian, and Zhi-Hua Zhou.<br>
 Machine Learning, in press, 2024.
 
-- [[PPSN 2022]](https://link.springer.com/chapter/10.1007/978-3-031-14714-2_30) Multi-objective Evolutionary Ensemble Pruning Guided by Margin Distribution. [[paper]](papers/wu2022multi.pdf) [[code]](https://github.com/heyixiao14/wu2022multi) [[bib]](papers/wu2022multi.html)<br>
+- [[PPSN 2022]](https://link.springer.com/chapter/10.1007/978-3-031-14714-2_30) Multi-objective Evolutionary Ensemble Pruning Guided by Margin Distribution. [[paper]](papers/wu2022multi.pdf) [[bib]](papers/wu2022multi.html)<br>
 Yu-Chang Wu, **Yi-Xiao He**, Chao Qian, and Zhi-Hua Zhou.<br>
 In: Proceedings of the 17th International Conference on Parallel Problem Solving from Nature, Dortmund, Germany, pp.427-441, 2022.
 
