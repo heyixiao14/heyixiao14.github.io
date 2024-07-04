@@ -38,7 +38,11 @@ In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New O
 </div>
 </div>
 
-- [[TKDD 2024]](https://github.com) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/heyixiao14/DFFI-code) [[bib]](papers/he2024interpreting.html) <br>
+ - [[INS 2024]](https://github.com) Multi-Class Imbalance Problem: A Multi-Objective Solution. [[paper]](papers/he2024multi.pdf) [[bib]](papers/he2024multi.html) <br>
+**Yi-Xiao He**, Dan-Xuan Liu, Shen-Huan Lyu, Chao Qian, and Zhi-Hua Zhou.<br>
+Information Sciences, in press, 2024.
+
+- [[TKDD 2024]](https://dl.acm.org/doi/10.1145/3641108) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/heyixiao14/DFFI-code) [[bib]](papers/he2024interpreting.html) <br>
 **Yi-Xiao He**, Shen-Huan Lyu, Yuan Jiang.<br>
 ACM Transactions on Knowledge Discovery from Data, in press, 2024.
 
