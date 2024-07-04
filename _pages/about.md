@@ -41,7 +41,7 @@ ACM Transactions on Knowledge Discovery from Data, in press, 2024.
 **Yi-Xiao He**, Yu-Chang Wu, Chao Qian, and Zhi-Hua Zhou.<br>
 Machine Learning, in press, 2024.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/lyu2022depth.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/lyu2022depth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[bib]](papers/lyu2022depth.html) <br>
@@ -49,7 +49,11 @@ Shen-Huan Lyu, **Yi-Xiao He**, Zhi-Hua Zhou.<br>
 In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New Orleans, Louisiana, US, 2022.
 
 </div>
-</div>
+</div> -->
+
+- [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[bib]](papers/lyu2022depth.html) <br>
+Shen-Huan Lyu, **Yi-Xiao He**, Zhi-Hua Zhou.<br>
+In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New Orleans, Louisiana, US, 2022.
 
 - [[PPSN 2022]](https://link.springer.com/chapter/10.1007/978-3-031-14714-2_30) Multi-objective Evolutionary Ensemble Pruning Guided by Margin Distribution. [[paper]](papers/wu2022multi.pdf) [[bib]](papers/wu2022multi.html)<br>
 Yu-Chang Wu, **Yi-Xiao He**, Chao Qian, and Zhi-Hua Zhou.<br>
