@@ -28,7 +28,7 @@ My research interest includes ensemble learning and learning theory.
 
 # 📝 Publications 
 
- - [[INS 2024]](https://github.com) Multi-Class Imbalance Problem: A Multi-Objective Solution. [[paper]](papers/he2024multi.pdf) [[bib]](papers/he2024multi.html) <br>
+ - [[INS 2024]](https://authors.elsevier.com/sd/article/S0020-0255(24)01070-3) Multi-Class Imbalance Problem: A Multi-Objective Solution. [[paper]](papers/he2024multi.pdf) [[bib]](papers/he2024multi.html) <br>
 **Yi-Xiao He**, Dan-Xuan Liu, Shen-Huan Lyu, Chao Qian, and Zhi-Hua Zhou.<br>
 Information Sciences, in press, 2024.
 
