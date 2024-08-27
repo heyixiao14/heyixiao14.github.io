@@ -32,9 +32,9 @@ My research interest includes ensemble learning and learning theory.
 **Yi-Xiao He**, Dan-Xuan Liu, Shen-Huan Lyu, Chao Qian, and Zhi-Hua Zhou.<br>
 Information Sciences, in press, 2024. -->
 
- - [[INS 2024]](https://authors.elsevier.com/a/1jQ0-4ZQEFhxF) Multi-Class Imbalance Problem: A Multi-Objective Solution. [[paper(free access link)]](https://authors.elsevier.com/a/1jQ0-4ZQEFhxF) [[bib]](papers/he2024multi.html) <br>
+ - [[INS 2024]](https://www.sciencedirect.com/science/article/pii/S0020025524010703) Multi-Class Imbalance Problem: A Multi-Objective Solution. [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025524010703) [[bib]](papers/he2024multi.html) <br>
 **Yi-Xiao He**, Dan-Xuan Liu, Shen-Huan Lyu, Chao Qian, and Zhi-Hua Zhou.<br>
-Information Sciences, in press, 2024.
+Information Sciences, 2024, 680: 121156.
 
 - [[TKDD 2024]](https://dl.acm.org/doi/10.1145/3641108) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/heyixiao14/DFFI-code) [[bib]](papers/he2024interpreting.html) <br>
 **Yi-Xiao He**, Shen-Huan Lyu, Yuan Jiang.<br>
