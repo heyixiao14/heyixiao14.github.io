@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently I am a fifth year graduate student of [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm) in [Nanjing University](https://www.nju.edu.cn/main.htm) and a member of [LAMDA](http://lamda.nju.edu.cn/) Group, led by professor [Zhi-Hua Zhou](http://lamda.nju.edu.cn/zhouzh/). I got my B.Eng. degree in [Information Science](http://www.isee.zju.edu.cn/) in June 2019 from [Chu Kochen Honors College of Zhejiang University](http://ckc.zju.edu.cn/). In the same year, I was admitted to pursue Ph.D. degree in [Nanjing University](https://www.nju.edu.cn/) without entrance examination.
+I am currently an Assistant Researcher in [School of Artificial Intelligence and Information Technology](https://xxjs.njucm.edu.cn/), [Nanjing University of Chinese Medicine](https://www.njucm.edu.cn/). I obtained my Ph.D. degree in Computer Science in June 2024 from [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm) in [Nanjing University](https://www.nju.edu.cn/main.htm), where I was very fortunate to be advised by Prof. [Zhi-Hua Zhou](http://lamda.nju.edu.cn/zhouzh/). Before that, I got my B.Eng. degree in [Information Science](http://www.isee.zju.edu.cn/) in June 2019 from [Chu Kochen Honors College of Zhejiang University](http://ckc.zju.edu.cn/).
 
 My research interest includes ensemble learning and learning theory. 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 I obtained my Ph.D. degree.
 - *2024.01*: &nbsp;🎉🎉 The paper "Interpreting Deep Forest through Feature Contribution and MDI Feature Importance" is accepted by the **CCF-B** international journal ACM TKDD 2024. 
 - *2023.12*: &nbsp;🎉🎉 The paper "Margin Distribution and Structural Diversity Guided Ensemble Pruning" is accepted by the **CCF-B** international journal MLJ 2024. 
 - *2022.12*: &nbsp;🎉🎉 The paper "Depth is More Powerful than Width with Prediction Concatenation in Deep Forests" is accepted by the **CCF-A** international conference NeurIPS 2022 as an **Oral Representation**. 
