@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Lecturer in [School of Artificial Intelligence and Information Technology](https://xxjs.njucm.edu.cn/) of [Nanjing University of Chinese Medicine](https://www.njucm.edu.cn/). I obtained my Ph.D. degree in Computer Science in June 2024 from [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm) of [Nanjing University](https://www.nju.edu.cn/main.htm), where I was very fortunate to be advised by Prof. [Zhi-Hua Zhou](http://lamda.nju.edu.cn/zhouzh/). Before that, I got my B.Eng. degree in [Information Science](http://www.isee.zju.edu.cn/) in June 2019 from [Chu Kochen Honors College of Zhejiang University](http://ckc.zju.edu.cn/).
+I am currently a Lecturer in [School of Artificial Intelligence and Information Technology](https://xxjs.njucm.edu.cn/) of [Nanjing University of Chinese Medicine](https://www.njucm.edu.cn/). I obtained my Ph.D. degree in Computer Science in June 2024 from [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm) of [Nanjing University](https://www.nju.edu.cn/main.htm), where I was very fortunate to be advised by Prof. [Zhi-Hua Zhou](http://lamda.nju.edu.cn/zhouzh/). Before that, I got my B.Eng. degree in [Information Science](http://www.isee.zju.edu.cn/) in June 2019 from [Chu Kochen Honors College of Zhejiang University](http://ckc.zju.edu.cn/).
 
 My research interest includes ensemble learning and learning theory. 
 
