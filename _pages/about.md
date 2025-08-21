@@ -29,6 +29,10 @@ My research interest includes ensemble learning and learning theory.
 
 # 📝 Publications 
 
+ - [[INS 2025]]() Enhance Learning Efficiency of Oblique Decision Tree via Feature Concatenation. <br>
+Shen-Huan Lyu, **Yi-Xiao He**, Yanyan Wang, Zhihao Qu, Bin Tang, and Baoliu Ye.<br>
+Information Sciences, 2025, In Press.
+
  - [[INS 2024]](https://authors.elsevier.com/sd/article/S0020-0255(24)01070-3) Multi-Class Imbalance Problem: A Multi-Objective Solution. [[paper]](papers/he2024multi.pdf) [[code]](https://github.com/heyixiao14/MMEnsemble-code) [[bib]](papers/he2024multi.html) <br>
 **Yi-Xiao He**, Dan-Xuan Liu, Shen-Huan Lyu, Chao Qian, and Zhi-Hua Zhou.<br>
 Information Sciences, 2024, 680: 121156.
