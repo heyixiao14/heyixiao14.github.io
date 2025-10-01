@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Lecturer in [School of Artificial Intelligence and Information Technology](https://xxjs.njucm.edu.cn/) of [Nanjing University of Chinese Medicine](https://www.njucm.edu.cn/). I obtained my Ph.D. degree in Computer Science in June 2024 from [School of Artificial Intelligence](https://ai.nju.edu.cn/main.htm) of [Nanjing University](https://www.nju.edu.cn/main.htm), where I was very fortunate to be advised by Prof. [Zhi-Hua Zhou](http://lamda.nju.edu.cn/zhouzh/). Before that, I got my B.Eng. degree in [Information Science](http://www.isee.zju.edu.cn/) in June 2019 from [Chu Kochen Honors College of Zhejiang University](http://ckc.zju.edu.cn/).
 
-My research interests include machine learning and multi-objective optimization. I mainly focus on ensemble learning methods, and 
+My research interests include machine learning and multi-objective optimization. Currently, I mainly focus on ensemble learning methods, and Artificial Intelligence in TCM Clinical Data Mining. 
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 I obtained my Ph.D. degree.
