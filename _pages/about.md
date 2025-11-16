@@ -44,7 +44,7 @@ Information Sciences, 2024, 680: 121156. -->
 **Yi-Xiao He**, Shen-Huan Lyu, Yuan Jiang.<br>
 ACM Transactions on Knowledge Discovery from Data, in press, 2024.
 
-- [[MLJ 2024]](https://link.springer.com/article/10.1007/s10994-023-06429-3) Margin Distribution and Structural Diversity Guided Ensemble Pruning. [[paper]](papers/he2024margin.pdf) [[poster]](papers/he2024margin_poster.pdf) [[bib]](papers/he2024margin.html) <br>
+- [[MLJ 2024]](https://link.springer.com/article/10.1007/s10994-023-06429-3) Margin Distribution and Structural Diversity Guided Ensemble Pruning. [[paper]](papers/he2024margin.pdf) [[poster]](papers/he2024margin_poster.pdf) [[code]](https://github.com/heyixiao14/DEP-code) [[bib]](papers/he2024margin.html) <br>
 **Yi-Xiao He**, Yu-Chang Wu, Chao Qian, and Zhi-Hua Zhou.<br>
 Machine Learning, 2024, 113: 3545-3567.
 
