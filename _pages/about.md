@@ -31,34 +31,34 @@ My research interests include machine learning and multi-objective optimization.
 
  - [[INS 2025]](https://www.sciencedirect.com/science/article/abs/pii/S0020025525007467) Enhance Learning Efficiency of Oblique Decision Tree via Feature Concatenation. [[paper]](papers/lyu2025enhance.pdf) [[bib]](papers/lyu2025enhance.html) <br>
 Shen-Huan Lyu, **Yi-Xiao He**\*, Yanyan Wang, Zhihao Qu, Bin Tang, and Baoliu Ye.<br>
-Information Sciences, 2025, In Press.
+Information Sciences, 721:122613, 2025. **(CCF B, CAS Q1)**
+
+- [[TKDD 2025]](https://dl.acm.org/doi/10.1145/3641108) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/heyixiao14/DFFI-code) [[bib]](papers/he2024interpreting.html) <br>
+**Yi-Xiao He**, Shen-Huan Lyu, Yuan Jiang.<br>
+ACM Transactions on Knowledge Discovery from Data, 20(1), 15:1-21, 2025. **(CCF B, CAS Q3)**
 
  - [[INS 2024]](https://authors.elsevier.com/sd/article/S0020-0255(24)01070-3) Multi-Class Imbalance Problem: A Multi-Objective Solution. [[paper]](papers/he2024multi.pdf) [[code]](https://github.com/heyixiao14/MMEnsemble-code) [[bib]](papers/he2024multi.html) <br>
 **Yi-Xiao He**, Dan-Xuan Liu, Shen-Huan Lyu, Chao Qian, and Zhi-Hua Zhou.<br>
-Information Sciences, 2024, 680: 121156.
+Information Sciences, 2024, 680: 121156. **(CCF B, CAS Q1)**
 <!--  - [[INS 2024]](https://www.sciencedirect.com/science/article/pii/S0020025524010703) Multi-Class Imbalance Problem: A Multi-Objective Solution. [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025524010703) [[bib]](papers/he2024multi.html) <br>
 **Yi-Xiao He**, Dan-Xuan Liu, Shen-Huan Lyu, Chao Qian, and Zhi-Hua Zhou.<br>
 Information Sciences, 2024, 680: 121156. -->
 
-- [[TKDD 2024]](https://dl.acm.org/doi/10.1145/3641108) Interpreting Deep Forest through Feature Contribution and MDI Feature Importance. [[paper]](papers/he2024interpreting.pdf) [[code]](https://github.com/heyixiao14/DFFI-code) [[bib]](papers/he2024interpreting.html) <br>
-**Yi-Xiao He**, Shen-Huan Lyu, Yuan Jiang.<br>
-ACM Transactions on Knowledge Discovery from Data, in press, 2024.
-
 - [[MLJ 2024]](https://link.springer.com/article/10.1007/s10994-023-06429-3) Margin Distribution and Structural Diversity Guided Ensemble Pruning. [[paper]](papers/he2024margin.pdf) [[poster]](papers/he2024margin_poster.pdf) [[code]](https://github.com/heyixiao14/DEP-code) [[bib]](papers/he2024margin.html) <br>
 **Yi-Xiao He**, Yu-Chang Wu, Chao Qian, and Zhi-Hua Zhou.<br>
-Machine Learning, 2024, 113: 3545-3567.
+Machine Learning, 2024, 113: 3545-3567. **(CCF B, CAS Q4)**
 
 - [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[bib]](papers/lyu2022depth.html) <br>
 Shen-Huan Lyu, **Yi-Xiao He**, Zhi-Hua Zhou.<br>
-In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New Orleans, Louisiana, US, 2022.
+In: Advances in Neural Information Processing Systems 35, pp. 29719-29732, New Orleans, Louisiana, US, 2022. **(CCF A)**
 
 - [[PPSN 2022]](https://link.springer.com/chapter/10.1007/978-3-031-14714-2_30) Multi-objective Evolutionary Ensemble Pruning Guided by Margin Distribution. [[paper]](papers/wu2022multi.pdf) [[bib]](papers/wu2022multi.html)<br>
 Yu-Chang Wu, **Yi-Xiao He**, Chao Qian, and Zhi-Hua Zhou.<br>
-In: Proceedings of the 17th International Conference on Parallel Problem Solving from Nature, Dortmund, Germany, pp.427-441, 2022.
+In: Proceedings of the 17th International Conference on Parallel Problem Solving from Nature, Dortmund, Germany, pp.427-441, 2022. **(CCF B)**
 
 - [[JCRD 2020]](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2020.20200490) 蒙德里安深度森林. [[paper]](papers/he2020mondrian.pdf) [[code]](papers/he2020mondrian_code.zip) [[bib]](papers/he2020mondrian.html)<br>
 **贺一笑**, 庞明, 姜远.<br>
-计算机研究与发展, 57(8):1594-1604, 2020.
+计算机研究与发展, 57(8):1594-1604, 2020. **(中文CCF A)**
 
 
 # 🎖 Honors and Awards
