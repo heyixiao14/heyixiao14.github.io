@@ -39,14 +39,14 @@ ACM Transactions on Knowledge Discovery from Data, 20(1), 15:1-21, 2025. **(CCF 
 
  - [[INS 2024]](https://authors.elsevier.com/sd/article/S0020-0255(24)01070-3) Multi-Class Imbalance Problem: A Multi-Objective Solution. [[paper]](papers/he2024multi.pdf) [[code]](https://github.com/heyixiao14/MMEnsemble-code) [[bib]](papers/he2024multi.html) <br>
 **Yi-Xiao He**, Dan-Xuan Liu, Shen-Huan Lyu, Chao Qian, and Zhi-Hua Zhou.<br>
-Information Sciences, 2024, 680: 121156. **(CCF B, CAS Q1)**
+Information Sciences, 680: 121156, 2024. **(CCF B, CAS Q1)**
 <!--  - [[INS 2024]](https://www.sciencedirect.com/science/article/pii/S0020025524010703) Multi-Class Imbalance Problem: A Multi-Objective Solution. [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025524010703) [[bib]](papers/he2024multi.html) <br>
 **Yi-Xiao He**, Dan-Xuan Liu, Shen-Huan Lyu, Chao Qian, and Zhi-Hua Zhou.<br>
 Information Sciences, 2024, 680: 121156. -->
 
 - [[MLJ 2024]](https://link.springer.com/article/10.1007/s10994-023-06429-3) Margin Distribution and Structural Diversity Guided Ensemble Pruning. [[paper]](papers/he2024margin.pdf) [[poster]](papers/he2024margin_poster.pdf) [[code]](https://github.com/heyixiao14/DEP-code) [[bib]](papers/he2024margin.html) <br>
 **Yi-Xiao He**, Yu-Chang Wu, Chao Qian, and Zhi-Hua Zhou.<br>
-Machine Learning, 2024, 113: 3545-3567. **(CCF B, CAS Q4)**
+Machine Learning, 113: 3545-3567, 2024. **(CCF B, CAS Q4)**
 
 - [[NeurIPS 2022 **Oral**]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c017e92288b5056c578bb6b0b69d9e76-Paper-Conference.pdf) Depth is More Powerful than Width with Prediction Concatenation in Deep Forests. [[paper]](papers/lyu2022depth.pdf) [[bib]](papers/lyu2022depth.html) <br>
 Shen-Huan Lyu, **Yi-Xiao He**, Zhi-Hua Zhou.<br>
